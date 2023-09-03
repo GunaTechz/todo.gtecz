@@ -1,15 +1,15 @@
 <h1 align="center">Todo app</h1>
 <div align="center">
   <h3>
-    <a href="" color="white">
+    <a href="https://www.frontendmentor.io/solutions/todo-app-4SzP6MCP8O" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://main--wondrous-dodol-796100.netlify.app/">
       Solution
     </a>
    <span> | </span>
-    <a href="">
+    <a href="https://www.frontendmentor.io/solutions/todo-app-4SzP6MCP8O">
       Challenge
     </a>
   </h3>
